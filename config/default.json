@@ -1,0 +1,9 @@
+{
+    "url_user": "https://api.github.com/user",
+    "url_users": "https://api.github.com/users",
+    "url_repos": "https://api.github.com/repos",
+    "headers": {
+        "Accept": "application/vnd.github.v3+json",
+        "user-agent": "node.js"
+    }
+}
